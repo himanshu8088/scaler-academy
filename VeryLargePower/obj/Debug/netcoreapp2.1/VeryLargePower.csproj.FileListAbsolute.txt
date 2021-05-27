@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\bin\Debug\netcoreapp2.1\VeryLargePower.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\bin\Debug\netcoreapp2.1\VeryLargePower.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\bin\Debug\netcoreapp2.1\VeryLargePower.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\bin\Debug\netcoreapp2.1\VeryLargePower.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\bin\Debug\netcoreapp2.1\VeryLargePower.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\VeryLargePower\obj\Debug\netcoreapp2.1\VeryLargePower.csprojAssemblyReference.cache

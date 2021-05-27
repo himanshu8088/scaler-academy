@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.exe
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\bin\Debug\netcoreapp3.1\MinMaxSubArray.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\MinMaxSubArray\MinMaxSubArray\obj\Debug\netcoreapp3.1\MinMaxSubArray.genruntimeconfig.cache

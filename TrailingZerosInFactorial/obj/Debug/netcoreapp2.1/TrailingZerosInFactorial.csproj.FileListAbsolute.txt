@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\bin\Debug\netcoreapp2.1\TrailingZerosInFactorial.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\bin\Debug\netcoreapp2.1\TrailingZerosInFactorial.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\bin\Debug\netcoreapp2.1\TrailingZerosInFactorial.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\bin\Debug\netcoreapp2.1\TrailingZerosInFactorial.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\bin\Debug\netcoreapp2.1\TrailingZerosInFactorial.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TrailingZerosInFactorial\obj\Debug\netcoreapp2.1\TrailingZerosInFactorial.genruntimeconfig.cache

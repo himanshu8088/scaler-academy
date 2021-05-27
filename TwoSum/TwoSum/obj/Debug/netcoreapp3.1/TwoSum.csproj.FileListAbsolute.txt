@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\TwoSum\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache

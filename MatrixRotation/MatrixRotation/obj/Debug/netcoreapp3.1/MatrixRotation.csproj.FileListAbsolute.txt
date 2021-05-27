@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.exe
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\bin\Debug\netcoreapp3.1\MatrixRotation.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\MatrixRotation\MatrixRotation\obj\Debug\netcoreapp3.1\MatrixRotation.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\bin\Debug\netcoreapp2.1\ReverseBits.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\ReverseBits\obj\Debug\netcoreapp2.1\ReverseBits.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\bin\Debug\netcoreapp2.1\AthMagicalNumber.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\bin\Debug\netcoreapp2.1\AthMagicalNumber.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\bin\Debug\netcoreapp2.1\AthMagicalNumber.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\bin\Debug\netcoreapp2.1\AthMagicalNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\bin\Debug\netcoreapp2.1\AthMagicalNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AthMagicalNumber\obj\Debug\netcoreapp2.1\AthMagicalNumber.csprojAssemblyReference.cache

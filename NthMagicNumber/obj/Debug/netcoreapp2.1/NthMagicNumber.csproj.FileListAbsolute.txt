@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\bin\Debug\netcoreapp2.1\NthMagicNumber.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\bin\Debug\netcoreapp2.1\NthMagicNumber.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\bin\Debug\netcoreapp2.1\NthMagicNumber.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\bin\Debug\netcoreapp2.1\NthMagicNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\bin\Debug\netcoreapp2.1\NthMagicNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\NthMagicNumber\obj\Debug\netcoreapp2.1\NthMagicNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\bin\Debug\netcoreapp2.1\SmallestGoodBase.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\bin\Debug\netcoreapp2.1\SmallestGoodBase.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\bin\Debug\netcoreapp2.1\SmallestGoodBase.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\bin\Debug\netcoreapp2.1\SmallestGoodBase.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\bin\Debug\netcoreapp2.1\SmallestGoodBase.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SmallestGoodBase\obj\Debug\netcoreapp2.1\SmallestGoodBase.csprojAssemblyReference.cache

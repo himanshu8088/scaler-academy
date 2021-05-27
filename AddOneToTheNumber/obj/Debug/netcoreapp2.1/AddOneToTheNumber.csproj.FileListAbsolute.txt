@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\bin\Debug\netcoreapp2.1\AddOneToTheNumber.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\bin\Debug\netcoreapp2.1\AddOneToTheNumber.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\bin\Debug\netcoreapp2.1\AddOneToTheNumber.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\bin\Debug\netcoreapp2.1\AddOneToTheNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\bin\Debug\netcoreapp2.1\AddOneToTheNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AddOneToTheNumber\obj\Debug\netcoreapp2.1\AddOneToTheNumber.genruntimeconfig.cache

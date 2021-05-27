@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\bin\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\bin\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\bin\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\bin\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\bin\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SumOfAAndBShouldBeEqualToCAndD\SumOfAAndBShouldBeEqualToCAndD\obj\Debug\netcoreapp2.1\SumOfAAndBShouldBeEqualToCAndD.genruntimeconfig.cache

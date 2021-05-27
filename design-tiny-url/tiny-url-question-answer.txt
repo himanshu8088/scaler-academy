@@ -1,0 +1,27 @@
+Q: How does your system ensure that 2 URLs never map to the same shortened URL?
+
+Sol: To avoid collision, we can generate unique key that can be mapped to URL. We can use bijective or invertible function to encode actual URL into key. The shortend url should contains below part-
+
+shortend URL = base URL + unique key
+
+Example: 
+http://www/mytinyURL.com/45abc6
+In above example "http://www/mytinyURL.com" is base URL and "45abc6" is unique key
+
+Unique key: THe unique key can be formed using alphabets and digits i.e. [A-Z],[a-7] and [0-9]. Therefore, total unique character can be 26+26+10 = 62 and possible number of 6 digit unique key that can be generated using these alphanumeric combination can be 6 to the power 62.
+
+Q: How will you ensure the system is very low latency?
+
+Sol: The system will be read heavy w.r.t to the write operation. To ensure low latency we can distribute load across multiple server using load balancer, also to minimize load on database and faster searches, we can cache most frequently used url-key mapping.
+
+Q: What will happen if the machine storing the URL mapping dies? (Power outage / Hard Disk gone bad)
+
+Sol: In first case we can replicate database within cluster for high availablity. If all machine dies, then also as discussed earlier we have used bijective function, so it will generate same key each time for given input, and we can regenerate key again for given URL.
+
+Q: How do you make sure your system is consistent? This is to say, if I have shortened a URL, given the shortened URL, my system should always return the original URL no matter when I call your system.
+
+Sol: The encoding and decoding algorithm can be such that it always return same mapped URL, irrespective of the server. It can be achieved using bijective function.
+
+Q: How do you make sure that your service never goes down? (No outage). You have to assume that your machines will die. How do you make sure your service is unaffected by those incidents (unless all of your machines die at once - Lets assume that never happens).
+
+Sol: To avoid having single point of failure, we can replicate machine and distribute load across clusters.

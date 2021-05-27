@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\bin\Debug\netcoreapp2.1\AggressiveCows.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\bin\Debug\netcoreapp2.1\AggressiveCows.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\bin\Debug\netcoreapp2.1\AggressiveCows.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\bin\Debug\netcoreapp2.1\AggressiveCows.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\bin\Debug\netcoreapp2.1\AggressiveCows.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AggressiveCows\obj\Debug\netcoreapp2.1\AggressiveCows.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\bin\Debug\netcoreapp2.1\RainWaterTrapped.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\bin\Debug\netcoreapp2.1\RainWaterTrapped.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\bin\Debug\netcoreapp2.1\RainWaterTrapped.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\bin\Debug\netcoreapp2.1\RainWaterTrapped.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\bin\Debug\netcoreapp2.1\RainWaterTrapped.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RainWaterTrapped\obj\Debug\netcoreapp2.1\RainWaterTrapped.csprojAssemblyReference.cache

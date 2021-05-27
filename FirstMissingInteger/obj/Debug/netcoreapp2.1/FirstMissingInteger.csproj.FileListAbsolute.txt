@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\bin\Debug\netcoreapp2.1\FirstMissingInteger.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\bin\Debug\netcoreapp2.1\FirstMissingInteger.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\bin\Debug\netcoreapp2.1\FirstMissingInteger.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\bin\Debug\netcoreapp2.1\FirstMissingInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\bin\Debug\netcoreapp2.1\FirstMissingInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\FirstMissingInteger\obj\Debug\netcoreapp2.1\FirstMissingInteger.genruntimeconfig.cache

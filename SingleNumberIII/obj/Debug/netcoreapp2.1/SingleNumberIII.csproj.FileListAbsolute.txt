@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\bin\Debug\netcoreapp2.1\SingleNumberIII.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\bin\Debug\netcoreapp2.1\SingleNumberIII.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\bin\Debug\netcoreapp2.1\SingleNumberIII.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\bin\Debug\netcoreapp2.1\SingleNumberIII.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\bin\Debug\netcoreapp2.1\SingleNumberIII.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SingleNumberIII\obj\Debug\netcoreapp2.1\SingleNumberIII.genruntimeconfig.cache

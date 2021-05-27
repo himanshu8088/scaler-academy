@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\bin\Debug\netcoreapp2.1\SubArrayWithZeroSum.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\bin\Debug\netcoreapp2.1\SubArrayWithZeroSum.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\bin\Debug\netcoreapp2.1\SubArrayWithZeroSum.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\bin\Debug\netcoreapp2.1\SubArrayWithZeroSum.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\bin\Debug\netcoreapp2.1\SubArrayWithZeroSum.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\SubArrayWithZeroSum\SubArrayWithZeroSum\obj\Debug\netcoreapp2.1\SubArrayWithZeroSum.genruntimeconfig.cache

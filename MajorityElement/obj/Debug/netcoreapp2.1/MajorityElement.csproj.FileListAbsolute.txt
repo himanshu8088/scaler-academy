@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\bin\Debug\netcoreapp2.1\MajorityElement.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\bin\Debug\netcoreapp2.1\MajorityElement.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\bin\Debug\netcoreapp2.1\MajorityElement.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\bin\Debug\netcoreapp2.1\MajorityElement.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\bin\Debug\netcoreapp2.1\MajorityElement.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MajorityElement\obj\Debug\netcoreapp2.1\MajorityElement.genruntimeconfig.cache

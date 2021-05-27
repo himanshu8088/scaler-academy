@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\bin\Debug\netcoreapp2.1\MergeInterval.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\bin\Debug\netcoreapp2.1\MergeInterval.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\bin\Debug\netcoreapp2.1\MergeInterval.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\bin\Debug\netcoreapp2.1\MergeInterval.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\bin\Debug\netcoreapp2.1\MergeInterval.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MergeInterval\obj\Debug\netcoreapp2.1\MergeInterval.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.genruntimeconfig.cache

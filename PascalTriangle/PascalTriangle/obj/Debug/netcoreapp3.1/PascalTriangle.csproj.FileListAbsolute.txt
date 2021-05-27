@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

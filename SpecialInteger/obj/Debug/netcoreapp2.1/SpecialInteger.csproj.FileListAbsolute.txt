@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\bin\Debug\netcoreapp2.1\SpecialInteger.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\bin\Debug\netcoreapp2.1\SpecialInteger.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\bin\Debug\netcoreapp2.1\SpecialInteger.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\bin\Debug\netcoreapp2.1\SpecialInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\bin\Debug\netcoreapp2.1\SpecialInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\SpecialInteger\obj\Debug\netcoreapp2.1\SpecialInteger.genruntimeconfig.cache

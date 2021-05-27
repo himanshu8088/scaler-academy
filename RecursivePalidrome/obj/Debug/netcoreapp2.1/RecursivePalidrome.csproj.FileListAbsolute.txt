@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\bin\Debug\netcoreapp2.1\RecursivePalidrome.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\bin\Debug\netcoreapp2.1\RecursivePalidrome.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\bin\Debug\netcoreapp2.1\RecursivePalidrome.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\bin\Debug\netcoreapp2.1\RecursivePalidrome.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\bin\Debug\netcoreapp2.1\RecursivePalidrome.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\RecursivePalidrome\obj\Debug\netcoreapp2.1\RecursivePalidrome.genruntimeconfig.cache

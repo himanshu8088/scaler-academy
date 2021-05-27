@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\bin\Debug\netcoreapp2.1\TitleNumber.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\bin\Debug\netcoreapp2.1\TitleNumber.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\bin\Debug\netcoreapp2.1\TitleNumber.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\bin\Debug\netcoreapp2.1\TitleNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\bin\Debug\netcoreapp2.1\TitleNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\TitleNumber\obj\Debug\netcoreapp2.1\TitleNumber.genruntimeconfig.cache

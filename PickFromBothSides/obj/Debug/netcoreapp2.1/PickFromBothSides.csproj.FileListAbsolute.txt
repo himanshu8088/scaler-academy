@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\bin\Debug\netcoreapp2.1\PickFromBothSides.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\bin\Debug\netcoreapp2.1\PickFromBothSides.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\bin\Debug\netcoreapp2.1\PickFromBothSides.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\bin\Debug\netcoreapp2.1\PickFromBothSides.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\bin\Debug\netcoreapp2.1\PickFromBothSides.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\PickFromBothSides\obj\Debug\netcoreapp2.1\PickFromBothSides.genruntimeconfig.cache

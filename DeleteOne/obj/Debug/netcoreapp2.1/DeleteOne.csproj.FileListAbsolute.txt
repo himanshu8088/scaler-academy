@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\bin\Debug\netcoreapp2.1\DeleteOne.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\bin\Debug\netcoreapp2.1\DeleteOne.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\bin\Debug\netcoreapp2.1\DeleteOne.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\bin\Debug\netcoreapp2.1\DeleteOne.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\bin\Debug\netcoreapp2.1\DeleteOne.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\DeleteOne\obj\Debug\netcoreapp2.1\DeleteOne.csprojAssemblyReference.cache

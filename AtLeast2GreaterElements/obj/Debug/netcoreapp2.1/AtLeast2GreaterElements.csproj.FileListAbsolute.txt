@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\bin\Debug\netcoreapp2.1\AtLeast2GreaterElements.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\bin\Debug\netcoreapp2.1\AtLeast2GreaterElements.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\bin\Debug\netcoreapp2.1\AtLeast2GreaterElements.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\bin\Debug\netcoreapp2.1\AtLeast2GreaterElements.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\bin\Debug\netcoreapp2.1\AtLeast2GreaterElements.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Homework\AtLeast2GreaterElements\obj\Debug\netcoreapp2.1\AtLeast2GreaterElements.genruntimeconfig.cache

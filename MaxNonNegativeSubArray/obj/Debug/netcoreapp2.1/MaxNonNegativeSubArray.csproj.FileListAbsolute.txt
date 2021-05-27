@@ -1,0 +1,12 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\bin\Debug\netcoreapp2.1\MaxNonNegativeSubArray.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\bin\Debug\netcoreapp2.1\MaxNonNegativeSubArray.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\bin\Debug\netcoreapp2.1\MaxNonNegativeSubArray.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\bin\Debug\netcoreapp2.1\MaxNonNegativeSubArray.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\bin\Debug\netcoreapp2.1\MaxNonNegativeSubArray.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.genruntimeconfig.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\MaxNonNegativeSubArray\obj\Debug\netcoreapp2.1\MaxNonNegativeSubArray.csprojAssemblyReference.cache

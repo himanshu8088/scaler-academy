@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.exe
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\bin\Debug\netcoreapp3.1\AntiDiagonal.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\AntiDiagonal\AntiDiagonal\obj\Debug\netcoreapp3.1\AntiDiagonal.genruntimeconfig.cache

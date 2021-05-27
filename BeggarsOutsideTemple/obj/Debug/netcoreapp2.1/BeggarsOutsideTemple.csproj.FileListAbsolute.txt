@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\bin\Debug\netcoreapp2.1\BeggarsOutsideTemple.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\bin\Debug\netcoreapp2.1\BeggarsOutsideTemple.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\bin\Debug\netcoreapp2.1\BeggarsOutsideTemple.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\bin\Debug\netcoreapp2.1\BeggarsOutsideTemple.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\bin\Debug\netcoreapp2.1\BeggarsOutsideTemple.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\BeggarsOutsideTemple\obj\Debug\netcoreapp2.1\BeggarsOutsideTemple.genruntimeconfig.cache

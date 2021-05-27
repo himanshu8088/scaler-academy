@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\bin\Debug\netcoreapp2.1\AllocateBooks.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\bin\Debug\netcoreapp2.1\AllocateBooks.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\bin\Debug\netcoreapp2.1\AllocateBooks.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\bin\Debug\netcoreapp2.1\AllocateBooks.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\bin\Debug\netcoreapp2.1\AllocateBooks.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\AllocateBooks\obj\Debug\netcoreapp2.1\AllocateBooks.genruntimeconfig.cache

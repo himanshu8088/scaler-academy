@@ -1,0 +1,12 @@
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\bin\Debug\netcoreapp2.1\NobleInteger.deps.json
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\bin\Debug\netcoreapp2.1\NobleInteger.runtimeconfig.json
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\bin\Debug\netcoreapp2.1\NobleInteger.runtimeconfig.dev.json
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\bin\Debug\netcoreapp2.1\NobleInteger.dll
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\bin\Debug\netcoreapp2.1\NobleInteger.pdb
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.csprojAssemblyReference.cache
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.AssemblyInfoInputs.cache
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.AssemblyInfo.cs
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.dll
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.pdb
+C:\Users\Himanshu\source\repos\NobleInteger\NobleInteger\obj\Debug\netcoreapp2.1\NobleInteger.genruntimeconfig.cache

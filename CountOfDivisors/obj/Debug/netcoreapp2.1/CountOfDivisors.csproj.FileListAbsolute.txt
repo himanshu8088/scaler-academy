@@ -1,0 +1,11 @@
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\bin\Debug\netcoreapp2.1\CountOfDivisors.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\bin\Debug\netcoreapp2.1\CountOfDivisors.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\bin\Debug\netcoreapp2.1\CountOfDivisors.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\bin\Debug\netcoreapp2.1\CountOfDivisors.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\bin\Debug\netcoreapp2.1\CountOfDivisors.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.dll
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler-academy\Assignment\CountOfDivisors\obj\Debug\netcoreapp2.1\CountOfDivisors.genruntimeconfig.cache

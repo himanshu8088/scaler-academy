@@ -1,0 +1,13 @@
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\Himanshu\Desktop\codespace\scaler\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache
